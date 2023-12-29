@@ -1,4 +1,4 @@
-read -p "Enter the size of equilateral angle triangle : " a
+read -p "Enter the size of equilateral angle triangle that you want : " a
 j=1
 for ((i=1;i<=a;i++))
 do
